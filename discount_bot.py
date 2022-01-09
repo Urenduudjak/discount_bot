@@ -7,7 +7,7 @@ import os
 
 
 # bot = Bot(token="")
-bot = Bot(token="5087302653:AAHsS81p46KlLaix3L1QwkA8Z-c0gcVejB4", parse_mode=types.ParseMode.HTML)
+bot = Bot(token="", parse_mode=types.ParseMode.HTML)
 dp = Dispatcher(bot)
 
 
